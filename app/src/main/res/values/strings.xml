@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Student App</string>
+    <string name="id_number">ID Number</string>
+    <string name="register">Register</string>
+</resources>
