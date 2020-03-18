@@ -104,7 +104,6 @@
         android:layout_marginBottom="551dp"
         android:soundEffectsEnabled="true"
         android:text="ANNOUNCEMENTS"
-
         android:textColor="#EDC8C8"
         android:textSize="28dp"
         android:textStyle="bold"
