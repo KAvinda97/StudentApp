@@ -211,7 +211,6 @@
         android:background="#5168DC"
         android:clickable="true"
         android:text="SUBMIT"
-        android:textStyle="bold"
         app:fontFamily="@font/aclonica" />
 
 </RelativeLayout>
