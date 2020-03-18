@@ -174,7 +174,8 @@
         android:layout_marginBottom="119dp"
         android:background="#A3A1A1"
         android:text="Browse"
-        app:fontFamily="@font/aclonica"/>
+        android:textStyle="bold"
+        app:fontFamily="@font/aclonica" />
 
     <SearchView
         android:layout_width="220dp"
